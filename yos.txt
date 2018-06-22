@@ -1,0 +1,2 @@
+{choose;Yes;No}
+You got {choice}
